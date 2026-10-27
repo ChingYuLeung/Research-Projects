@@ -3,7 +3,7 @@
 - <b>Final Year Project:</b>
   Correlations between Dynamical Dark Energy and Neutrino Parameters
   - [FYP_Preprint](https://arxiv.org/abs/2610.34445)
-  - Submitted to The Astrophysical Journal Letters (ApJL)
+  - Submitted as first author to The Astrophysical Journal Letters (ApJL)
 
 - <b>University of Tokyo Research Internship Program:</b>
   Energy, Direction and Vertex Reconstruction for a Proposed Water Cherenkov Neutrino Detector at Oak Ridge National Laboratory 
