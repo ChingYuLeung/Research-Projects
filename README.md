@@ -1,13 +1,10 @@
 <h2>Undergraduate Research Projects:</h2>
 
-- <b>Final Year Project2:</b>
-  Probing the Degeneracy of Evolving Dark Energy and Extended Neutrino Cold Dark Matter Models using DESI DR2
-  - [FYP report2](https://github.com/ottoleung1601/Research-Projects/blob/main/FYP_report2.pdf)
-
 - <b>Final Year Project:</b>
-  Probing the Neutrino-Dark Energy Degeneracy in Cold Dark Matter Model using Baryon Acoustic Oscillation Data
-  - [FYP report](https://github.com/ottoleung1601/Research-Projects/blob/main/FYP_report.pdf)
-    
+  Correlations between Dynamical Dark Energy and Neutrino Parameters
+  - [FYP_Preprint](https://arxiv.org/abs/2610.34445)
+  - Submitted to The Astrophysical Journal Letters (ApJL)
+
 - <b>University of Tokyo Research Internship Program:</b>
   Energy, Direction and Vertex Reconstruction for a Proposed Water Cherenkov Neutrino Detector at Oak Ridge National Laboratory 
   - [UTRIP report](https://www.s.u-tokyo.ac.jp/en/utrip/archive/2024/research-projects/pdf/01.pdf) 
