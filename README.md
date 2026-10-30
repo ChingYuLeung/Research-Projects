@@ -1,5 +1,5 @@
 <h2>Master's Dissertation:</h2>
-- To be updated
+- <b>To be updated:</b
 
 <h2>Undergraduate Research Projects:</h2>
 
