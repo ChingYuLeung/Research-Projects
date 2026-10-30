@@ -1,3 +1,6 @@
+<h2>Master's Dissertation:</h2>
+- To be updated
+
 <h2>Undergraduate Research Projects:</h2>
 
 - <b>Final Year Project:</b>
